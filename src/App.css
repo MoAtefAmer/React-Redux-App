@@ -19,6 +19,10 @@
   color: white;
 }
 
+.round{
+  border-radius: 15px;
+}
+
 .App-link {
   color: #61dafb;
 }
